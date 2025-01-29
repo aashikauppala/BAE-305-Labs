@@ -1,4 +1,4 @@
-# BAE-305-Labs
+
 Lab 1: Knowing Your Instruments 
 Aashika Uppala, Megan Fister
 1/28/2025
