@@ -47,7 +47,7 @@ PLug a black wire into the "COM" port and a red wire into the port labeled V&ome
 
 Keep wires plugged in and connect the alligator clips to the metal end of the wires. Connect these clips to either end of the capacitor and record the capacitance measured. Compare the measured value to the expexcted value based on the code of the capacitor.
 
-![Capacitors](https://github.com/aashikauppala/BAE-305-Labs/blob/main/Lab1%203.jpg)
+![Capacitors](https://github.com/aashikauppala/BAE-305-Labs/blob/main/Lab1%204.jpg)
 
 *Using the D.C. Power Supply (DCPS)*
 
@@ -63,7 +63,7 @@ Plug in and turn on the DCPS and then connect the red and black wires to the por
 
 Connect a 10K&omega; resistor to the output of the FG and set the FG to produce a 2kHz sine wave of maximum amplitude. Measure the amplitude and frequency of the wave using four strategies: counting the squares on the screen of the oscilloscope, moving the cursors on the oscilloscope, using the measurement features on the oscilloscope, and connecting the wires of the Fluke DMM. 
 
-![Measure using FG and Oscilloscope](https://github.com/aashikauppala/BAE-305-Labs/blob/main/Lab1%2013.jpg)
+![Measure using FG and Oscilloscope](https://github.com/aashikauppala/BAE-305-Labs/blob/main/Lab1%2012.jpg)
 
 
 ## Results
