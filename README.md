@@ -39,7 +39,7 @@ Important note: make sure everything is being measured in DC!
 
 *Step 1: Measure and verify the resistance of various resistors.*
 
-PLug a black wire into the "COM" port and a red wire into the port labeled V&omega;. Wrap each end of a resistor around the metal ends of each wire, turn the knob to mesure ohms, and record the resistance measured. Compare the measured value to the expexcted value based on the color code of the resistor. Repeat for all four resistors.
+Plug a black wire into the "COM" port and a red wire into the port labeled V&Omega;. Wrap each end of a resistor around the metal ends of each wire, turn the knob to mesure ohms, and record the resistance measured. Compare the measured value to the expexcted value based on the color code of the resistor. Repeat for all four resistors.
 
 ![Resistors](https://github.com/aashikauppala/BAE-305-Labs/blob/main/Lab1%203.jpg)
 
@@ -53,7 +53,7 @@ Keep wires plugged in and connect the alligator clips to the metal end of the wi
 
 *Step 3: Measure and verify the voltage output of the DCPS.*
 
-Plug in and turn on the DCPS and then connect the red and black wires to the ports labeled "main output" and "1-20 VDC." Set the main output current to the minimum and the voltage to 1.5V. Clip the alligator clamps from the wires connected to the Fluke DMM to the wires plugged into the DCPS. Turn the knob on the Fluke DMM to measure voltage. Repeat this for 7.0V and then 12.0V. Then, reconnect the red and black wires to the "Aux 2" and "12 VDC" ports and measure voltage and then repeat with the "Aux 1" and "3.5/5 VDC" ports.
+Plug in and turn on the DCPS and then connect the red and black wires to the ports labeled "main output" and "1-20 VDC." Set the main output current to the minimum and the voltage to 1.5V. Clip the alligator clamps from the wires connected to the Fluke DMM to the wires plugged into the DCPS. Turn the knob on the Fluke DMM to measure voltage. Repeat this for 7.0V and then 12.0V. Then, reconnect the red and black wires to the "Aux 2" and "12 VDC" ports and measure voltage and then repeat with the "Aux 1" and "3.5/5 VDC" ports and measure the voltage. Compare the measured values to the expected values.
 
 ![Measuring DCPS](https://github.com/aashikauppala/BAE-305-Labs/blob/main/Lab1%208.jpg)
 
@@ -61,7 +61,7 @@ Plug in and turn on the DCPS and then connect the red and black wires to the por
 
 *Step 4: Measure and verify the function generator output.*
 
-Connect a 10K&omega; resistor to the output of the FG and set the FG to produce a 2kHz sine wave of maximum amplitude. Measure the amplitude and frequency of the wave using four strategies: counting the squares on the screen of the oscilloscope, moving the cursors on the oscilloscope, using the measurement features on the oscilloscope, and connecting the wires of the Fluke DMM. 
+Connect a 10K&Omega; resistor to the output of the FG and set the FG to produce a 2kHz sine wave of maximum amplitude. Measure the amplitude and frequency of the wave using four strategies: counting the squares on the screen of the oscilloscope, moving the cursors on the oscilloscope, using the measurement features on the oscilloscope, and connecting the wires of the Fluke DMM. 
 
 ![Measure using FG and Oscilloscope](https://github.com/aashikauppala/BAE-305-Labs/blob/main/Lab1%2012.jpg)
 
@@ -69,7 +69,7 @@ Connect a 10K&omega; resistor to the output of the FG and set the FG to produce 
 ## Results
 *Step 1: Measure and verify the resistance of various resistors.*
 
-| Color Code | Expected Resistance &Omega; | Tolerance | Maximum | Minimum | Measured | Range |
+| Color Code | Expected Resistance (&Omega;) | Tolerance | Maximum (&Omega;) | Minimum (&Omega;) | Measured (&Omega;)| Range |
 |:---|:---:|:---:|:---:|:---:|:---:|---:|
 | Brown-Black-Black-Gold | 10    | 5%|10.5   | 9.5   | 10.1  | In Range |
 | Brown-Green-Brown-Gold | 150   | 5%|157.5  | 142.5 | 147.7 | In Range |
