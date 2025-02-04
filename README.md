@@ -41,9 +41,13 @@ Important note: make sure everything is being measured in DC!
 
 PLug a black wire into the "COM" port and a red wire into the port labeled V&omega;. Wrap each end of a resistor around the metal ends of each wire, turn the knob to mesure ohms, and record the resistance measured. Compare the measured value to the expexcted value based on the color code of the resistor. Repeat for all four resistors.
 
+![Resistors](https://github.com/aashikauppala/BAE-305-Labs/blob/main/Lab1%203.jpg)
+
 *Step 2: Measure and verify the capacitance of various capacitors.*
 
 Keep wires plugged in and connect the alligator clips to the metal end of the wires. Connect these clips to either end of the capacitor and record the capacitance measured. Compare the measured value to the expexcted value based on the code of the capacitor.
+
+![Capacitors](https://github.com/aashikauppala/BAE-305-Labs/blob/main/Lab1%203.jpg)
 
 *Using the D.C. Power Supply (DCPS)*
 
