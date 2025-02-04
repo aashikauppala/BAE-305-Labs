@@ -31,11 +31,13 @@ The exercise also introduced GitHub as a documentation and collaboration tool.
 
 • A 10KΩ resistor
 
+
 #### Objective 1: Use the above-listed lab equipment to measure and verify equipment, component, and circuit values.
 
 Important note: make sure everything is being measured in DC!
 
-*Using the Fluke Digital Multimeter (DMM)*
+
+##### *Using the Fluke Digital Multimeter (DMM)*
 
 *Step 1: Measure and verify the resistance of various resistors.*
 
@@ -49,7 +51,8 @@ Keep wires plugged in and connect the alligator clips to the metal end of the wi
 
 ![Capacitors](https://github.com/aashikauppala/BAE-305-Labs/blob/main/Lab1%204.jpg)
 
-*Using the D.C. Power Supply (DCPS)*
+
+##### *Using the D.C. Power Supply (DCPS)*
 
 *Step 3: Measure and verify the voltage output of the DCPS.*
 
@@ -57,7 +60,8 @@ Plug in and turn on the DCPS and then connect the red and black wires to the por
 
 ![Measuring DCPS](https://github.com/aashikauppala/BAE-305-Labs/blob/main/Lab1%208.jpg)
 
-*Using the Function Generator (FG) and Oscilloscope*
+
+##### *Using the Function Generator (FG) and Oscilloscope*
 
 *Step 4: Measure and verify the function generator output.*
 
@@ -67,7 +71,7 @@ Connect a 10K&Omega; resistor to the output of the FG and set the FG to produce 
 
 
 ## Results
-*Step 1: Measure and verify the resistance of various resistors.*
+#### *Step 1: Measure and verify the resistance of various resistors.*
 
 | Color Code | Expected Resistance (&Omega;) | Tolerance | Maximum (&Omega;) | Minimum (&Omega;) | Measured (&Omega;)| Range |
 |:---|:---:|:---:|:---:|:---:|:---:|---:|
@@ -76,7 +80,7 @@ Connect a 10K&Omega; resistor to the output of the FG and set the FG to produce 
 | Orange-Orange-Red-Gold | 3310  | 5%|3465   | 3135  | 3310  | In Range |
 | Brown-Green-Green-Gold |1500000| 20%|1575000|1425000|1495000| In Range |
 
-*Step 2: Measure and verify the capacitance of various capacitors.*
+#### *Step 2: Measure and verify the capacitance of various capacitors.*
 
 Assume 20% tolerance for capacitor 4 where there is no tolerance labeled. 
 
@@ -88,7 +92,7 @@ Assume 20% tolerance for capacitor 4 where there is no tolerance labeled.
 | black     | electrolytic | 100000000  | 120000000 | 80000000   | 97200000    | In Range |
 
 
-*Step 3: Measure and verify the voltage output of the DCPS.*
+#### *Step 3: Measure and verify the voltage output of the DCPS.*
 
 - While the DCPS is set at 1.5 V, the DMM is bouncing from 1.477 V to 1.525 V.
 - While the DCPS is set at 7 V, the DMM measures 7 V.
@@ -97,7 +101,7 @@ Assume 20% tolerance for capacitor 4 where there is no tolerance labeled.
 - When connected to the 12 VDC port in the DCPS, the DMM measures 12 V (no matter the voltage on power supply).
 
 
-*Step 4: Measure and verify the function generator output.*
+#### *Step 4: Measure and verify the function generator output.*
 
 1. "Counting squares" on the oscilloscope screen
 2. Using the moveable cursor on the oscilloscope
@@ -114,30 +118,31 @@ Assume 20% tolerance for capacitor 4 where there is no tolerance labeled.
 
 
 ## Discussion
-*Resistors*
+#### *Resistors*
 
 *Do the resistors fall within their tolerance?*
 
 Some measured values differed slightly from expected values due to instrument tolerances. However, all of the resistors fall within their range of tolerance. 
 
 
-*Capacitors*
+#### *Capacitors*
 
 *Do the instruments agree with the expected value? Does polarity affect the measurement of the electrolytic capacitor?*
 
 The instruments agree with the expected value for the most part. Two of the capacitors were out of range. Capacitor 2 is too small to measure with these instruments and capacitor 1 was higher than the expected value. Polarity affects the measurement of the electrolytic capacitor, but not enough to cause it to be outside of the expected range. 
 
 
-*DCPS*
+#### *DCPS*
 
 *Do the instruments agree with each other? Why?*
 
 The oscilloscope provided more precise waveform measurements than the DMM. The power supply's meter readings were close but not always exact compared to the DMM.
 
 
-*Function Generator and Oscilloscope*
+#### *Function Generator and Oscilloscope*
 
 *Do the instruments agree? Why?*
+
 Frequency and amplitude varied slightly across different measurement techniques, but they agree for the most part. The oscilloscope’s measurement feature provided the most accurate reading. Differences between instruments highlight the importance of calibration and understanding tool limitations. Probe resistance must be accounted for when measuring low-resistance values.
 
 ## Conclusion
