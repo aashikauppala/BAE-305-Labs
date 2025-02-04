@@ -7,11 +7,14 @@ Aashika Uppala, Megan Fister
 ## Introduction
 The goal of this lab is to familiarize students with essential electronic test equipment, including a digital multimeter, an oscilloscope, a function generator, and direct power supply. 
 Understanding these instruments is critical for future experiments. 
-Introduction of Summary: The purpose of this lab is to introduce students to key electronic test instruments. Gaining proficiency with these tools is essential for conducting future experiments effectively.
+The purpose of this lab is to introduce students to key electronic test instruments. Gaining proficiency with these tools is essential for conducting future experiments effectively. 
 We performed various measurements using the provided equipment to verify component values and signal characteristics. Tasks include measuring resistances, capacitances, and voltage outputs, as well as analyzing waveforms using an oscilloscope.
 Finally, we learned to use GitHub for collaboration and documentation.
 By completing this lab, students gained hands-on experience in using electronic test instruments, verifying expected values against measured data, and analyzing discrepancies.
-The exercise also introduced GitHub as a documentation and collaboration tool.
+The exercise also introduced GitHub as a documentation and collaboration tool. 
+By the end of this experiment, we will have a solid foundation in using electronic test equipment,
+validating electrical components, and leveraging digital tools for technical documentation.
+This knowledge will serve as a cornerstone for future experiments and real-world applications.
 
 ## Methods
 ### Lab Equipment
