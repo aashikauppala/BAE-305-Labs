@@ -55,11 +55,15 @@ Keep wires plugged in and connect the alligator clips to the metal end of the wi
 
 Plug in and turn on the DCPS and then connect the red and black wires to the ports labeled "main output" and "1-20 VDC." Set the main output current to the minimum and the voltage to 1.5V. Clip the alligator clamps from the wires connected to the Fluke DMM to the wires plugged into the DCPS. Turn the knob on the Fluke DMM to measure voltage. Repeat this for 7.0V and then 12.0V. Then, reconnect the red and black wires to the "Aux 2" and "12 VDC" ports and measure voltage and then repeat with the "Aux 1" and "3.5/5 VDC" ports.
 
+![Measuring DCPS](https://github.com/aashikauppala/BAE-305-Labs/blob/main/Lab1%208.jpg)
+
 *Using the Function Generator (FG) and Oscilloscope*
 
 *Step 4: Measure and verify the function generator output.*
 
 Connect a 10K&omega; resistor to the output of the FG and set the FG to produce a 2kHz sine wave of maximum amplitude. Measure the amplitude and frequency of the wave using four strategies: counting the squares on the screen of the oscilloscope, moving the cursors on the oscilloscope, using the measurement features on the oscilloscope, and connecting the wires of the Fluke DMM. 
+
+![Measure using FG and Oscilloscope](https://github.com/aashikauppala/BAE-305-Labs/blob/main/Lab1%2013.jpg)
 
 
 ## Results
